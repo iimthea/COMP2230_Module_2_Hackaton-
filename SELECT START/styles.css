@@ -6,6 +6,58 @@ body {
   font-size: 100%; 
   font-family:Arial, Helvetica, sans-serif; 
   line-height: 1.25; 
-  background-color: pink;   
+  background-color: #111;   
 
  }  
+
+ .nav-list {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding: 0;
+  margin: 0 2.5rem;
+  justify-content: center;  
+
+}
+
+.nav-list li {
+  margin-right: 0 1rem; 
+}
+
+.nav-list li a {
+  color: #ff5c5c;
+  text-decoration: none;
+  padding: 0.5rem;
+  font-size: 20px;
+  margin: 0 2.5rem;  
+}
+
+.nav-list a:hover {
+  color: yellow;
+} 
+
+section h2 {
+  font-size: 2rem;
+  color: #ff1a1a;               
+  margin-bottom: 1rem;
+  text-shadow: 0 0 8px #ff5c5c; 
+}
+
+section p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #ff9999;               
+  text-shadow: 0 0 4px #aa0000; 
+}
+
+header {
+  margin-bottom: 3rem;
+}
+
+section {
+  margin-top: 3rem;
+} 
+
+
+
+ 

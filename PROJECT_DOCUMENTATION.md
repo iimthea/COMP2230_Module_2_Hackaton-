@@ -7,18 +7,19 @@
 ## Team Members:
 
 -   Name 1
--   Name 2
--   Name 3
+-   Thea Cabacungan 
+-   Name 3 
 
 ## Member Contributions:
 
 ### Name 1:
 
 -   Worked on [specific elements] of the webpage.
+ 
+### Thea:
 
-### Name 2:
-
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Worked on the tile, about us, and added a logo image.
+-   Utilized nav list, sections, img path and css styles for the assigned part. 
 
 ### Name 3:
 
