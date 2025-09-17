@@ -2,19 +2,19 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+Creating a small business page for Select Start, an arcade bar in Winnipeg, and applying css styles to content
 
 ## Team Members:
 
--   Name 1
+-   Chan Madut
 -   Name 2
 -   Name 3
 
 ## Member Contributions:
 
-### Name 1:
+### Chan Madut:
 
--   Worked on [specific elements] of the webpage.
+-   Worked on Gallery, Food, and Games section of the webpage, and applied css styles to each.
 
 ### Name 2:
 
