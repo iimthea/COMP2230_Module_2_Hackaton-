@@ -45,3 +45,7 @@ section#Food ul li{
 section#Games ul{
     columns: 2;
 }
+
+section:hover{
+    background-color: #333;
+}
